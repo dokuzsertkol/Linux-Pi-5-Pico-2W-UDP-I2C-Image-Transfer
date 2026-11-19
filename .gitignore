@@ -1,0 +1,5 @@
+*.json
+build-linux
+build-pico2w
+build-pi5
+.cache
